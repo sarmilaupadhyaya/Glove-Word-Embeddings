@@ -84,6 +84,7 @@ def main():
 if __name__ == '__main__':
     import datetime
     a = datetime.datetime.now()
+    # Download glove vector from stanford link provided in readme
     glove_model_1 = load_glove_model("glove/glove.6B.100d")
     b = datetime.datetime.now()
     print("It took " + str(b - a) + " seconds to load glove model from .txt file")

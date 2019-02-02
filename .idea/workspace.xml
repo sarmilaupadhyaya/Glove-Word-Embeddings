@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff92889b-d92c-450c-a860-b54b6638274b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glove/glove.6B.100d.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glove/glove.6B.100d.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glove/glove.6B.100d.vocab" afterPath="" />
-    </list>
+    <list default="true" id="ff92889b-d92c-450c-a860-b54b6638274b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
